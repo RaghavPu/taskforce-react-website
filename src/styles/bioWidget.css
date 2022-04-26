@@ -1,0 +1,14 @@
+.bioDiv {
+    padding: 5%;
+    background-color: white;
+    border-radius: 20px;
+    /* position: absolute; */
+    /* justify-content: center; */
+    /* margin: auto 20px; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    text-align: left;
+    width: 40%;
+    margin: 10px;
+    color: black;
+    display: inline-block;
+}

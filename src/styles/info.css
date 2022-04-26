@@ -1,0 +1,31 @@
+.info-h1 {
+    color: white;
+    stroke-width: 10px;
+}
+
+.info-p {
+    color: #7f8284;
+    font-size: 15px;
+}
+
+.info-content {
+    width: 40%;
+    margin-right: 20px;
+}
+
+.info {
+    padding: 10px;
+    background-color: #212529;
+    border-radius: 10px;
+    display: flex;
+    height: 50%;
+}
+
+
+.info-img {
+    margin-top: 10%;
+    margin-right: 0px;
+    float: right;
+    width: 20%;
+    height: %;
+}

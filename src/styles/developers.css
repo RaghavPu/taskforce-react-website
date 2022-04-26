@@ -1,0 +1,9 @@
+.biosContainer {
+    /* align-items: flex-start; */
+    /* display: inline; */
+    /* flex-direction: column; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:stretch;
+}
